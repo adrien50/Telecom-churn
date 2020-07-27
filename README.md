@@ -16,6 +16,8 @@ In this project, we will be using the customer data of a telecom sector company 
 * Create models using multiple algorithms
 * Compare the performance of different models using multiple metrics
 * Save the model and creating API to implement the model in production
+* Define key driver that lead to churn 
+
 
 
 
